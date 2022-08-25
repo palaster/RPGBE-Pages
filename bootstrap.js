@@ -58,6 +58,78 @@
 /******/ 					"__wbindgen_object_drop_ref": function(p0i32) {
 /******/ 						return installedModules["../pkg/rpgbe_bg.js"].exports["__wbindgen_object_drop_ref"](p0i32);
 /******/ 					},
+/******/ 					"__wbg_instanceof_Window_42f092928baaee84": function(p0i32) {
+/******/ 						return installedModules["../pkg/rpgbe_bg.js"].exports["__wbg_instanceof_Window_42f092928baaee84"](p0i32);
+/******/ 					},
+/******/ 					"__wbg_document_15b2e504fb1556d6": function(p0i32) {
+/******/ 						return installedModules["../pkg/rpgbe_bg.js"].exports["__wbg_document_15b2e504fb1556d6"](p0i32);
+/******/ 					},
+/******/ 					"__wbg_getElementById_927eae2597d26692": function(p0i32,p1i32,p2i32) {
+/******/ 						return installedModules["../pkg/rpgbe_bg.js"].exports["__wbg_getElementById_927eae2597d26692"](p0i32,p1i32,p2i32);
+/******/ 					},
+/******/ 					"__wbg_instanceof_HtmlCanvasElement_9f56aef8c479066b": function(p0i32) {
+/******/ 						return installedModules["../pkg/rpgbe_bg.js"].exports["__wbg_instanceof_HtmlCanvasElement_9f56aef8c479066b"](p0i32);
+/******/ 					},
+/******/ 					"__wbg_getContext_efe7e95b72348104": function(p0i32,p1i32,p2i32) {
+/******/ 						return installedModules["../pkg/rpgbe_bg.js"].exports["__wbg_getContext_efe7e95b72348104"](p0i32,p1i32,p2i32);
+/******/ 					},
+/******/ 					"__wbg_copyToChannel_960b01b15d78c9c3": function(p0i32,p1i32,p2i32,p3i32) {
+/******/ 						return installedModules["../pkg/rpgbe_bg.js"].exports["__wbg_copyToChannel_960b01b15d78c9c3"](p0i32,p1i32,p2i32,p3i32);
+/******/ 					},
+/******/ 					"__wbg_instanceof_CanvasRenderingContext2d_10bb8c4425aab773": function(p0i32) {
+/******/ 						return installedModules["../pkg/rpgbe_bg.js"].exports["__wbg_instanceof_CanvasRenderingContext2d_10bb8c4425aab773"](p0i32);
+/******/ 					},
+/******/ 					"__wbg_putImageData_b6835d76d1cb45dd": function(p0i32,p1i32,p2f64,p3f64) {
+/******/ 						return installedModules["../pkg/rpgbe_bg.js"].exports["__wbg_putImageData_b6835d76d1cb45dd"](p0i32,p1i32,p2f64,p3f64);
+/******/ 					},
+/******/ 					"__wbg_connect_fad7fe6381e416de": function(p0i32,p1i32) {
+/******/ 						return installedModules["../pkg/rpgbe_bg.js"].exports["__wbg_connect_fad7fe6381e416de"](p0i32,p1i32);
+/******/ 					},
+/******/ 					"__wbg_setbuffer_63ab27d5f9282677": function(p0i32,p1i32) {
+/******/ 						return installedModules["../pkg/rpgbe_bg.js"].exports["__wbg_setbuffer_63ab27d5f9282677"](p0i32,p1i32);
+/******/ 					},
+/******/ 					"__wbg_start_d4b18f4cde9f64a2": function(p0i32) {
+/******/ 						return installedModules["../pkg/rpgbe_bg.js"].exports["__wbg_start_d4b18f4cde9f64a2"](p0i32);
+/******/ 					},
+/******/ 					"__wbg_destination_4ef0618e5a74b95f": function(p0i32) {
+/******/ 						return installedModules["../pkg/rpgbe_bg.js"].exports["__wbg_destination_4ef0618e5a74b95f"](p0i32);
+/******/ 					},
+/******/ 					"__wbg_new_a1cb1513a646f9fb": function() {
+/******/ 						return installedModules["../pkg/rpgbe_bg.js"].exports["__wbg_new_a1cb1513a646f9fb"]();
+/******/ 					},
+/******/ 					"__wbg_createBuffer_5a0b67de11ed0664": function(p0i32,p1i32,p2i32,p3f32) {
+/******/ 						return installedModules["../pkg/rpgbe_bg.js"].exports["__wbg_createBuffer_5a0b67de11ed0664"](p0i32,p1i32,p2i32,p3f32);
+/******/ 					},
+/******/ 					"__wbg_createBufferSource_4aff461e0681922a": function(p0i32) {
+/******/ 						return installedModules["../pkg/rpgbe_bg.js"].exports["__wbg_createBufferSource_4aff461e0681922a"](p0i32);
+/******/ 					},
+/******/ 					"__wbg_newwithu8clampedarrayandsh_67cfbae8df523bed": function(p0i32,p1i32,p2i32,p3i32) {
+/******/ 						return installedModules["../pkg/rpgbe_bg.js"].exports["__wbg_newwithu8clampedarrayandsh_67cfbae8df523bed"](p0i32,p1i32,p2i32,p3i32);
+/******/ 					},
+/******/ 					"__wbg_newnoargs_971e9a5abe185139": function(p0i32,p1i32) {
+/******/ 						return installedModules["../pkg/rpgbe_bg.js"].exports["__wbg_newnoargs_971e9a5abe185139"](p0i32,p1i32);
+/******/ 					},
+/******/ 					"__wbg_call_33d7bcddbbfa394a": function(p0i32,p1i32) {
+/******/ 						return installedModules["../pkg/rpgbe_bg.js"].exports["__wbg_call_33d7bcddbbfa394a"](p0i32,p1i32);
+/******/ 					},
+/******/ 					"__wbindgen_object_clone_ref": function(p0i32) {
+/******/ 						return installedModules["../pkg/rpgbe_bg.js"].exports["__wbindgen_object_clone_ref"](p0i32);
+/******/ 					},
+/******/ 					"__wbg_self_fd00a1ef86d1b2ed": function() {
+/******/ 						return installedModules["../pkg/rpgbe_bg.js"].exports["__wbg_self_fd00a1ef86d1b2ed"]();
+/******/ 					},
+/******/ 					"__wbg_window_6f6e346d8bbd61d7": function() {
+/******/ 						return installedModules["../pkg/rpgbe_bg.js"].exports["__wbg_window_6f6e346d8bbd61d7"]();
+/******/ 					},
+/******/ 					"__wbg_globalThis_3348936ac49df00a": function() {
+/******/ 						return installedModules["../pkg/rpgbe_bg.js"].exports["__wbg_globalThis_3348936ac49df00a"]();
+/******/ 					},
+/******/ 					"__wbg_global_67175caf56f55ca9": function() {
+/******/ 						return installedModules["../pkg/rpgbe_bg.js"].exports["__wbg_global_67175caf56f55ca9"]();
+/******/ 					},
+/******/ 					"__wbindgen_is_undefined": function(p0i32) {
+/******/ 						return installedModules["../pkg/rpgbe_bg.js"].exports["__wbindgen_is_undefined"](p0i32);
+/******/ 					},
 /******/ 					"__wbg_buffer_34f5ec9f8a838ba0": function(p0i32) {
 /******/ 						return installedModules["../pkg/rpgbe_bg.js"].exports["__wbg_buffer_34f5ec9f8a838ba0"](p0i32);
 /******/ 					},
@@ -69,6 +141,9 @@
 /******/ 					},
 /******/ 					"__wbg_length_51f19f73d6d9eff3": function(p0i32) {
 /******/ 						return installedModules["../pkg/rpgbe_bg.js"].exports["__wbg_length_51f19f73d6d9eff3"](p0i32);
+/******/ 					},
+/******/ 					"__wbindgen_debug_string": function(p0i32,p1i32) {
+/******/ 						return installedModules["../pkg/rpgbe_bg.js"].exports["__wbindgen_debug_string"](p0i32,p1i32);
 /******/ 					},
 /******/ 					"__wbindgen_throw": function(p0i32,p1i32) {
 /******/ 						return installedModules["../pkg/rpgbe_bg.js"].exports["__wbindgen_throw"](p0i32,p1i32);
@@ -177,7 +252,7 @@
 /******/ 				promises.push(installedWasmModuleData);
 /******/ 			else {
 /******/ 				var importObject = wasmImportObjects[wasmModuleId]();
-/******/ 				var req = fetch(__webpack_require__.p + "" + {"../pkg/rpgbe_bg.wasm":"f1e3b9ef3810e2b69024"}[wasmModuleId] + ".module.wasm");
+/******/ 				var req = fetch(__webpack_require__.p + "" + {"../pkg/rpgbe_bg.wasm":"6982deeab5e80cefa0db"}[wasmModuleId] + ".module.wasm");
 /******/ 				var promise;
 /******/ 				if(importObject instanceof Promise && typeof WebAssembly.compileStreaming === 'function') {
 /******/ 					promise = Promise.all([WebAssembly.compileStreaming(req), importObject]).then(function(items) {
