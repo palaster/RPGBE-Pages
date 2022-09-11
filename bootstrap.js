@@ -55,6 +55,9 @@
 /******/ 		"../pkg/rpgbe_bg.wasm": function() {
 /******/ 			return {
 /******/ 				"./rpgbe_bg.js": {
+/******/ 					"__wbindgen_cb_drop": function(p0i32) {
+/******/ 						return installedModules["../pkg/rpgbe_bg.js"].exports["__wbindgen_cb_drop"](p0i32);
+/******/ 					},
 /******/ 					"__wbindgen_object_drop_ref": function(p0i32) {
 /******/ 						return installedModules["../pkg/rpgbe_bg.js"].exports["__wbindgen_object_drop_ref"](p0i32);
 /******/ 					},
@@ -63,6 +66,9 @@
 /******/ 					},
 /******/ 					"__wbg_document_15b2e504fb1556d6": function(p0i32) {
 /******/ 						return installedModules["../pkg/rpgbe_bg.js"].exports["__wbg_document_15b2e504fb1556d6"](p0i32);
+/******/ 					},
+/******/ 					"__wbg_requestAnimationFrame_9e5ccef32fec2b99": function(p0i32,p1i32) {
+/******/ 						return installedModules["../pkg/rpgbe_bg.js"].exports["__wbg_requestAnimationFrame_9e5ccef32fec2b99"](p0i32,p1i32);
 /******/ 					},
 /******/ 					"__wbg_getElementById_927eae2597d26692": function(p0i32,p1i32,p2i32) {
 /******/ 						return installedModules["../pkg/rpgbe_bg.js"].exports["__wbg_getElementById_927eae2597d26692"](p0i32,p1i32,p2i32);
@@ -150,6 +156,9 @@
 /******/ 					},
 /******/ 					"__wbindgen_memory": function() {
 /******/ 						return installedModules["../pkg/rpgbe_bg.js"].exports["__wbindgen_memory"]();
+/******/ 					},
+/******/ 					"__wbindgen_closure_wrapper89": function(p0i32,p1i32,p2i32) {
+/******/ 						return installedModules["../pkg/rpgbe_bg.js"].exports["__wbindgen_closure_wrapper89"](p0i32,p1i32,p2i32);
 /******/ 					}
 /******/ 				}
 /******/ 			};
@@ -252,7 +261,7 @@
 /******/ 				promises.push(installedWasmModuleData);
 /******/ 			else {
 /******/ 				var importObject = wasmImportObjects[wasmModuleId]();
-/******/ 				var req = fetch(__webpack_require__.p + "" + {"../pkg/rpgbe_bg.wasm":"6982deeab5e80cefa0db"}[wasmModuleId] + ".module.wasm");
+/******/ 				var req = fetch(__webpack_require__.p + "" + {"../pkg/rpgbe_bg.wasm":"dceb43c67fb1ec43ff10"}[wasmModuleId] + ".module.wasm");
 /******/ 				var promise;
 /******/ 				if(importObject instanceof Promise && typeof WebAssembly.compileStreaming === 'function') {
 /******/ 					promise = Promise.all([WebAssembly.compileStreaming(req), importObject]).then(function(items) {
